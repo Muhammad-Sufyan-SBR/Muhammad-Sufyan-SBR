@@ -19,6 +19,10 @@
   </p>
 </p>
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Muhammad+Sufiyan+Rajput;AI-Native+Full-Stack+Developer;Applied+AI+Engineer+%7C+Agentic+Systems+Developer;Gemini+CLI+%7C+Claude+%7C+SpecKit+Engineer;Next.js+%7C+Tailwind+CSS+%7C+TypeScript;Python+%7C+FastAPI+%7C+Automation;Real-Time+AI+%2F+Multi-Agent+Systems+Builder;Always+Learning+%26+Building+AI-Native+Apps" alt="Typing SVG" />
+</p>
 ---
 
 ### 🚀 About Me
