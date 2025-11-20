@@ -43,122 +43,21 @@ I am an AI-Native Full-Stack Developer, following the Panaversity AIDD roadmap t
 -   **Backend:** Node.js, Express, FastAPI, Python Automation
 -   **Databases:** MongoDB, Firebase, PostgreSQL
 
+---
 
+### 🧰 Tools & Platforms
 
-🧰 Tools & Platforms
+- **Deployment & Hosting:** Vercel, Netlify, Railway, Docker, Render  
+- **CI/CD & Version Control:** Git, GitHub, GitHub CLI, GitHub Actions  
+- **AI/Agents:** Gemini CLI, Claude, OpenAI Agents SDK, SpecKit, MCP, LlamaIndex  
+- **Real-time Systems:** WebSockets, Socket.io, Firebase Realtime  
+- **Frontend Tools:** Next.js, React, Tailwind CSS, ShadCN UI, Framer Motion  
+- **Backend Tools:** Node.js, Express, FastAPI, Python Automation  
+- **Databases:** MongoDB, PostgreSQL, Firebase, PlanetScale, Supabase  
+- **AI/ML Libraries:** OpenCV, Dlib, MediaPipe, NumPy, Pandas  
+- **Productivity Tools:** VS Code, Cursor, GitHub Copilot, Warp Terminal  
+- **Design Tools:** Figma, Canva
 
-🚀 Deployment & Cloud
-
-🌐 Vercel — Next.js deployments
-
-🐳 Docker — containerization
-
-☁️ Render / Railway / Supabase (optional cloud hosting)
-
-
-⚙️ DevOps & Automation
-
-🔄 Git / GitHub Actions — CI/CD workflows
-
-🛠️ npm / pnpm / yarn — package managers
-
-📦 TurboRepo / NX — monorepo management
-
-
-⚡ Real-Time & Sockets
-
-🔌 WebSockets
-
-🔥 Firebase Realtime Database
-
-🔄 Socket.io (optional)
-
-
-🤖 AI / ML & Agent Development
-
-🧠 Gemini CLI (spec generation + coding)
-
-🧩 Anthropic Claude (reasoning engine)
-
-🤖 OpenAI Agents SDK
-
-🏗️ SpecKit Architecture
-
-📡 LangChain / Python AI stacks
-
-🔍 LLM Function Calling
-
-⚡ Autonomous Workflow Engines
-
-
-🎥 AI Vision & Model Engineering
-
-👁️ OpenCV
-
-📐 Dlib
-
-🎛️ Mediapipe
-
-🖼️ PIL / CV2 image processing
-
-
-🖥️ Frontend Development
-
-⚛️ React
-
-⚡ Next.js
-
-🎨 Tailwind CSS
-
-🧩 ShadCN UI
-
-🎥 Framer Motion
-
-🎭 Lucide Icons / HeroIcons
-
-
-🔧 Backend & API Development
-
-🐍 FastAPI (Python + APIs)
-
-🚂 Express.js
-
-🌐 Node.js (TypeScript)
-
-🔄 REST / GraphQL
-
-🔐 JWT / OAuth Authentication
-
-
-🗄️ Databases
-
-🍃 MongoDB
-
-🔥 Firebase Firestore
-
-🐘 PostgreSQL
-
-🧊 Redis (cache + queues)
-
-
-🛠️ Testing & Code Quality
-
-🧪 Jest
-
-🔍 ESLint + Prettier
-
-🧼 Black (Python formatter)
-
-
-🌟 Productivity & AI Development Tools
-
-💬 Cursor IDE
-
-🧪 VS Code
-
-🔮 GitHub Copilot
-
-📚 Notion (project management)
 ---
 
 ### 🌟 My AI-Driven Development (AIDD) Workflow
@@ -171,6 +70,7 @@ My engineering process is built on a structured, AI-first foundation to maximize
 -   ✔ **Process Framework:** Adhere to the **AIDD Roadmap** for a consistent and high-quality engineering lifecycle.
 
 ---
+
 
 ### 📈 GitHub Stats
 
