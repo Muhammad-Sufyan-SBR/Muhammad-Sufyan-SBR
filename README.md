@@ -20,6 +20,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Muhammad+Sufiyan+Rajput;AI-Native+Full-Stack+Developer;Applied+AI+Engineer+%7C+Agentic+Systems+Developer;Gemini+CLI+%7C+Claude+%7C+SpecKit+Engineer;Next.js+%7C+Tailwind+CSS+%7C+TypeScript;Python+%7C+FastAPI+%7C+Automation;Real-Time+AI+%2F+Multi-Agent+Systems+Builder;Always+Learning+%26+Building+AI-Native+Apps" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://your-host.com/animated-profile.gif" width="240" height="240" style="border-radius:50%;" alt="Muhammad Sufiyan Rajput" />
+</p>
+
 ### 🚀 About Me
 
 I am an AI-Native Full-Stack Developer, following the Panaversity AIDD roadmap to build the next generation of intelligent applications. My focus is on creating AI-first, scalable, and efficient software by deeply integrating state-of-the-art tools like Gemini, Claude, and SpecKit into my workflow.
