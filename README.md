@@ -72,12 +72,10 @@ I am an AI-Native Full-Stack Developer, following the Panaversity AIDD roadmap t
 
 ### 📈 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dua-Fatima-khan&show_icons=true&theme=tokyonight&hide_border=true" width="450" />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Sufyan-SBR&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.demolab.io/?user=Muhammad-Sufyan-SBR&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
+  
 ---
 
 
