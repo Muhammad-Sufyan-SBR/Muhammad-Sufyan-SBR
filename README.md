@@ -88,7 +88,7 @@ My engineering process is built on a structured, AI-first foundation to maximize
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Sufyan-SBR&show_icons=true&theme=merko&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Sufyan-SBR&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src=" https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Sufyan-SBR&theme=radical&hide_border=true />
 </p>
 
 ---
