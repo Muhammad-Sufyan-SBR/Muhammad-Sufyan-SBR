@@ -6,11 +6,7 @@
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muhammad-Sufyan-Sbr/Web-Projects/main/public/github-header-image.png" alt="AI-Native Development Banner">
-</p>
-
-<p align="center">
-  <h1 align="center">Muhammad Sufiyan Rajput</h1>
+  <h1 align="center">⚡Muhammad Sufiyan Rajput⚡</h1>
   <p align="center">
     <strong>AI-Native Full-Stack Developer • Applied AI Engineer • Agentic Systems Developer</strong>
   </p>
@@ -23,7 +19,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Muhammad+Sufiyan+Rajput;AI-Native+Full-Stack+Developer;Applied+AI+Engineer+%7C+Agentic+Systems+Developer;Gemini+CLI+%7C+Claude+%7C+SpecKit+Engineer;Next.js+%7C+Tailwind+CSS+%7C+TypeScript;Python+%7C+FastAPI+%7C+Automation;Real-Time+AI+%2F+Multi-Agent+Systems+Builder;Always+Learning+%26+Building+AI-Native+Apps" alt="Typing SVG" />
 </p>
----
 
 ### 🚀 About Me
 
@@ -48,33 +43,122 @@ I am an AI-Native Full-Stack Developer, following the Panaversity AIDD roadmap t
 -   **Backend:** Node.js, Express, FastAPI, Python Automation
 -   **Databases:** MongoDB, Firebase, PostgreSQL
 
-### 🧰 Tools & Platforms
 
--   **Deployment:** Vercel, Docker
--   **CI/CD:** Git / GitHub Actions
--   **Real-time:** WebSockets
--   **AI/ML Libraries:** OpenCV, Dlib, Streamlit
 
----
+🧰 Tools & Platforms
 
-### 📌 Featured Projects
+🚀 Deployment & Cloud
 
-*   **🧠 AI-Enhanced Real-Time Messenger**
-    -   *Tech:* Next.js, Firebase, Tailwind CSS
-    -   ✨ *Features:* AI-driven typing prediction, smart content filters, and real-time presence indicators.
+🌐 Vercel — Next.js deployments
 
-*   **🛒 AI-Native E-Commerce Platform**
-    -   *Tech:* Next.js, Sanity, Stripe
-    -   ✨ *Features:* AI-powered admin dashboard for smart product insights and automatic schema generation.
+🐳 Docker — containerization
 
-*   **🚗 Driver Drowsiness Detection System**
-    -   *Tech:* Python, OpenCV, Dlib
-    -   ✨ *Features:* Real-time eye state analysis and facial landmark detection to trigger alerts and ensure driver safety.
+☁️ Render / Railway / Supabase (optional cloud hosting)
 
-*   **🧊 Ice-Cream Machine Repair Tracker**
-    -   *Tech:* Express, MongoDB
-    -   ✨ *Features:* AI-analyzed service logs, predictive maintenance reports, and automated stakeholder notifications.
 
+⚙️ DevOps & Automation
+
+🔄 Git / GitHub Actions — CI/CD workflows
+
+🛠️ npm / pnpm / yarn — package managers
+
+📦 TurboRepo / NX — monorepo management
+
+
+⚡ Real-Time & Sockets
+
+🔌 WebSockets
+
+🔥 Firebase Realtime Database
+
+🔄 Socket.io (optional)
+
+
+🤖 AI / ML & Agent Development
+
+🧠 Gemini CLI (spec generation + coding)
+
+🧩 Anthropic Claude (reasoning engine)
+
+🤖 OpenAI Agents SDK
+
+🏗️ SpecKit Architecture
+
+📡 LangChain / Python AI stacks
+
+🔍 LLM Function Calling
+
+⚡ Autonomous Workflow Engines
+
+
+🎥 AI Vision & Model Engineering
+
+👁️ OpenCV
+
+📐 Dlib
+
+🎛️ Mediapipe
+
+🖼️ PIL / CV2 image processing
+
+
+🖥️ Frontend Development
+
+⚛️ React
+
+⚡ Next.js
+
+🎨 Tailwind CSS
+
+🧩 ShadCN UI
+
+🎥 Framer Motion
+
+🎭 Lucide Icons / HeroIcons
+
+
+🔧 Backend & API Development
+
+🐍 FastAPI (Python + APIs)
+
+🚂 Express.js
+
+🌐 Node.js (TypeScript)
+
+🔄 REST / GraphQL
+
+🔐 JWT / OAuth Authentication
+
+
+🗄️ Databases
+
+🍃 MongoDB
+
+🔥 Firebase Firestore
+
+🐘 PostgreSQL
+
+🧊 Redis (cache + queues)
+
+
+🛠️ Testing & Code Quality
+
+🧪 Jest
+
+🔍 ESLint + Prettier
+
+🧼 Black (Python formatter)
+
+
+🌟 Productivity & AI Development Tools
+
+💬 Cursor IDE
+
+🧪 VS Code
+
+🔮 GitHub Copilot
+
+📚 Notion (project management)
 ---
 
 ### 🌟 My AI-Driven Development (AIDD) Workflow
