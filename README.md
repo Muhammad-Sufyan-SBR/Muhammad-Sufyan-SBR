@@ -20,8 +20,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Muhammad+Sufiyan+Rajput;AI-Native+Full-Stack+Developer;Applied+AI+Engineer+%7C+Agentic+Systems+Developer;Gemini+CLI+%7C+Claude+%7C+SpecKit+Engineer;Next.js+%7C+Tailwind+CSS+%7C+TypeScript;Python+%7C+FastAPI+%7C+Automation;Real-Time+AI+%2F+Multi-Agent+Systems+Builder;Always+Learning+%26+Building+AI-Native+Apps" alt="Typing SVG" />
 </p>
 
+<!-- 🔥 Profile Image with a Cyberpunk Glow Effect -->
 <p align="center">
-  <img src="https://your-host.com/animated-profile.gif" width="240" height="240" style="border-radius:50%;" alt="Muhammad Sufiyan Rajput" />
+  <img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" 
+  width="240" height="240" 
+  style="border-radius:50%; border:4px solid #ff4500; box-shadow: 0px 0px 20px #ff4500;" />
 </p>
 
 ### 🚀 About Me
