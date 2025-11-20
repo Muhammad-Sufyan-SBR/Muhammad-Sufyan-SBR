@@ -70,6 +70,17 @@ I am an AI-Native Full-Stack Developer, following the Panaversity AIDD roadmap t
 
 ---
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Sufyan-SBR&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.demolab.io/?user=Muhammad-Sufyan-SBR&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+
 ### 🌟 My AI-Driven Development (AIDD) Workflow
 
 My engineering process is built on a structured, AI-first foundation to maximize efficiency and innovation.
@@ -78,18 +89,6 @@ My engineering process is built on a structured, AI-first foundation to maximize
 -   ✔ **Reasoning & Refactoring:** Leverage **Claude** for deep code analysis, logical reasoning, and advanced refactoring.
 -   ✔ **Autonomous Execution:** Deploy **AI Agents** to automate complex workflows and execute tasks independently.
 -   ✔ **Process Framework:** Adhere to the **AIDD Roadmap** for a consistent and high-quality engineering lifecycle.
-
----
-
-
-### 📈 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Sufyan-SBR&show_icons=true&theme=merko&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <br><br>
-  <img src=" https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Sufyan-SBR&theme=radical&hide_border=true />
-</p>
 
 ---
 
