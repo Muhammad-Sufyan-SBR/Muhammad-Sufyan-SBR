@@ -86,10 +86,11 @@ My engineering process is built on a structured, AI-first foundation to maximize
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Sufyan-SBR&show_icons=true&theme=react&count_private=true&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=ff79c6&text_color=c792ea" alt="GitHub Stats" style="border-radius:12px; box-shadow: 0 0 15px #ff79c6, 0 0 30px #8be9fd;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Sufyan-SBR&show_icons=true&theme=react&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Sufyan-SBR&theme=radical&hide_border=true" alt="GitHub Streak Stats" style="border-radius:12px; box-shadow: 0 0 15px #ff79c6, 0 0 30px #8be9fd;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Sufyan-SBR&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
+
 ---
 
 ### 🎯 Currently Working On
