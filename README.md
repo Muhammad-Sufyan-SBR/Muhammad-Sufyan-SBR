@@ -30,7 +30,7 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me 😎
 
 I am an AI-Native Full-Stack Developer, following the Panaversity AIDD roadmap to build the next generation of intelligent applications. My focus is on creating AI-first, scalable, and efficient software by deeply integrating state-of-the-art tools like Gemini, Claude, and SpecKit into my workflow.
 
