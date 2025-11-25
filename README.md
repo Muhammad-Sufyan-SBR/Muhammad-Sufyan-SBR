@@ -40,6 +40,14 @@ I am an AI-Native Full-Stack Developer, following the Panaversity AIDD roadmap t
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Sufyan-SBR&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 🤖 AI & Agent Development Skills
 
 -   **LLMs & Frameworks:** Gemini CLI, Anthropic Claude, OpenAI Agents SDK
