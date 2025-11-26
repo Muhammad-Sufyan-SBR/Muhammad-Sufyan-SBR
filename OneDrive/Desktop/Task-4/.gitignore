@@ -1,0 +1,12 @@
+# Environment variables
+.env
+
+# Session data
+user_session.json
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
